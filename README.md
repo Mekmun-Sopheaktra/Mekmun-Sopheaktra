@@ -1,52 +1,81 @@
-# 👋 Hi, I’m Mekmun Sopheaktra
+# 👋 Hi, I'm Mekmun Sopheaktra
 
-🎓 I'm a graduated bachelor's degree in **Information Technology Engineering** from the **Royal University of Phnom Penh (RUPP)**.
-    
-💼 Currently Graduate School Student (Master Degree) in **Software Convergence in Mobile Computing and Network** from the **Soonchunhyang University (SCHU)**.
+🎓 **Master's Student** in Software Convergence (Mobile Computing and Network) at **Soonchunhyang University (SCHU), South Korea**.
+
+🎓 **Bachelor's Degree** in Information Technology Engineering from the **Royal University of Phnom Penh (RUPP), Cambodia**.
+
+💻 I'm a software developer and researcher interested in building scalable software systems, distributed architectures, and intelligent computing solutions.
 
 ---
+
+## 🔬 Research Interests
+
+- Federated Learning & Distributed Machine Learning
+- Edge Computing & Distributed AI
+- Blockchain & Distributed Ledger Technology
+- Cloud Computing and Distributed Systems
+- Internet of Things (IoT)
+- Privacy-Preserving Data Sharing and Access Control
 
 ## 💻 Tech Stack
 
-- **Languages**: PHP (Laravel), JavaScript, TypeScript, Kotlin, Java and More
-- **Frameworks & Tools**: 
-  - **Backend**: Laravel, Django, Flask, Spirng Boot REST APIs, WebSockets (Reverb), More
-  - **Frontend**: Vue, Nuxt, React, Next and More
-  - **Mobile**: Android (Kotlin), Flutter
-  - **DevOps**: Docker, DigitalOcean, NGINX, Vite, AWS and More
-  - **Database**: MySQL, PostgreSQL, MongoDB and More
-  - **Others**: Git, Netlify, Firebase, Mapbox GL JS and More
+**Programming Languages**
+- Anything if need
+
+**Backend Development**
+- Laravel, Django, Flask, Spring Boot
+- REST APIs, WebSockets, Laravel Reverb
+
+**Frontend Development**
+- Vue.js, Nuxt.js, React.js, Next.js
+- Tailwind CSS, Element Plus
+
+**Mobile Development**
+- Android and IOS
+- Flutter
+- Mobile Computing
+
+**Machine Learning & AI**
+- PyTorch, Flower (Federated Learning)
+- NumPy, Scikit-learn
+
+**DevOps & Infrastructure**
+- Docker, Docker Compose, Vagrant
+- NGINX, AWS, DigitalOcean
+- Linux, VirtualBox
+
+**Databases**
+- MySQL, PostgreSQL, MongoDB
+
+**Other Tools**
+- Git, GitHub, Firebase, Netlify, Mapbox GL JS
 
 ---
 
-## 🌱 Interests & Learning
+## 🚀 Projects & Research
 
-- Web & Mobile App Development  
-- Real-time Systems with WebSockets  
-- Cloud Infrastructure & DevOps  
-- Blockchain Technology (currently exploring permissioned blockchain networks)
-- Graphic Design (Digital)
+- 🧠 **Federated Learning** — Building a distributed Federated Learning environment using PyTorch, Flower, Docker, and virtualized infrastructure to investigate non-IID data distribution and model performance.
+- 🔗 **Vehicle Record Management Using Permissioned Blockchain Network** — Bachelor's thesis exploring blockchain-based vehicle record management.
+- 🏥 **Decentralized Medical Record Sharing** — Exploring decentralized medical record sharing, identity management, and access control using distributed ledger technology.
+- 💻 **Freelance Development** — Developing web and mobile applications for local businesses.
 
 ---
 
-## 📫 How to Reach Me
+## 🌱 Currently Learning
+
+- Advanced Federated Learning algorithms and optimization
+- Distributed AI and Multi-Agent Learning
+- GPU-accelerated distributed computing
+- Container orchestration and scalable infrastructure
+- Privacy and security in distributed systems
+
+---
+
+## 📫 Connect With Me
 
 - 📱 Telegram: [@Mekmun_Sopheaktra](https://t.me/Mekmun_Sopheaktra)
-- 🐙 GitHub: [github.com/Mekmun-Sopheaktra](https://github.com/Mekmun-Sopheaktra)
+- 🐙 GitHub: [Mekmun-Sopheaktra](https://github.com/Mekmun-Sopheaktra)
 
 ---
 
-## 📌 Projects & Activities
-
-- 🎓 Thesis: **Vehicle Record Management Using Permissioned Blockchain Network**  
-- 💼 Freelance: Building mobile & web solutions for local businesses  
-- 👨‍💻 GitHub: Actively sharing personal and academic projects  
-
----
-
-> _"I have only one life, the life that's fulfilled with happiness for myself and my family."_  
-
-<!---
-Mekmun-Sopheaktra/Mekmun-Sopheaktra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> *"I have only one life, the life that's fulfilled with happiness for myself and my family."*
